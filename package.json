@@ -1,0 +1,23 @@
+{
+  "name": "trimming-trailing-char",
+  "version": "0.0.1",
+  "description": "a module to trim any character on any given string",
+  "main": "trimming-trailing-char.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaspaonrocks/snippets-trimming-trailing-char.git"
+  },
+  "keywords": [
+    "string",
+    "handling\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C"
+  ],
+  "author": "gaspaonrocks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaspaonrocks/snippets-trimming-trailing-char/issues"
+  },
+  "homepage": "https://github.com/gaspaonrocks/snippets-trimming-trailing-char#readme"
+}
